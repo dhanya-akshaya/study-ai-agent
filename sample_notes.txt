@@ -1,0 +1,57 @@
+Computer Networks:
+Computer Networks is a field of study that deals with communication between devices.
+It allows devices to share data, resources, and services over a network.
+Networks can be classified as LAN, MAN, and WAN based on size.
+
+TCP (Transmission Control Protocol):
+TCP is a connection-oriented protocol.
+It provides reliable data transfer and ensures that data reaches its destination correctly.
+It uses error checking, flow control, and retransmission of lost packets.
+TCP is used in applications like web browsing, email, and file transfer.
+
+UDP (User Datagram Protocol):
+UDP is a connectionless protocol.
+It is faster than TCP but does not guarantee delivery.
+It does not perform error checking or retransmission.
+UDP is used in applications like video streaming, online gaming, and DNS.
+
+OSI Model:
+The OSI model has seven layers: Physical, Data Link, Network, Transport, Session, Presentation, and Application.
+Each layer has a specific function in data communication.
+It helps in understanding how data moves through a network.
+
+HTTP (HyperText Transfer Protocol):
+HTTP is used for communication between web browsers and servers.
+It follows a request-response model.
+HTTPS is a secure version of HTTP that uses encryption.
+
+DNS (Domain Name System):
+DNS translates domain names into IP addresses.
+It makes it easier for users to access websites without remembering IP addresses.
+Example: google.com → IP address.
+
+IP Address:
+An IP Address is a unique identifier for a device on a network.
+It helps in identifying and locating devices.
+There are two types: IPv4 and IPv6.
+
+Routers:
+Routers are devices that forward data packets between networks.
+They determine the best path for data transmission.
+They are essential for connecting different networks like the internet.
+
+Network Topologies:
+Network topology refers to the arrangement of devices in a network.
+Common types include Bus, Star, Ring, and Mesh.
+
+Bandwidth:
+Bandwidth is the amount of data that can be transmitted over a network in a given time.
+Higher bandwidth means faster data transfer.
+
+Latency:
+Latency is the delay in data transmission.
+Lower latency results in faster communication.
+
+Protocols:
+Protocols are rules that govern data communication.
+Examples include TCP, UDP, HTTP, FTP, and SMTP.
