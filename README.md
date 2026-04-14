@@ -77,7 +77,7 @@ User Interface
 StudyAI/
 │
 ├── study_agent.py      # Main application file  
-├── ai_notes.txt        # Sample input file  
+├── sample_notes.txt        # Sample input file  
 ├── README.md           # Project documentation  
 ```
 
